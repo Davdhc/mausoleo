@@ -1,4 +1,3 @@
-#
 # script for activation windows
 
 irm https://get.activated.win | iex
